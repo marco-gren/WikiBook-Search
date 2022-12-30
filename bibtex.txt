@@ -1,0 +1,3 @@
+@elMed{title = {Java Standard}, URL = {https://de.wikibooks.org/wiki/Java_Standard}}
+@elMed{title = {Gehirn und Sprache}, URL = {https://de.wikibooks.org/wiki/Gehirn_und_Sprache}}
+@elMed{title = {C-Programmierung}, URL = {https://de.wikibooks.org/wiki/C-Programmierung}}
